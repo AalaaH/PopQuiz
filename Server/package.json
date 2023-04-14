@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "ipfs-http-client": "^52.0.4-rc.4"
+  }
+}
